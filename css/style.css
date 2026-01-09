@@ -215,6 +215,31 @@ color: #627382;
   color: #001931;
   text-wrap-mode: inherit;  
 }
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    width: 1600px;
+    height: 348px;
+    background-color: #001931;
+}
+.footer-img{
+    width: 350px;
+    height: 60px;
+}
+.footer-container p{
+    width: 113px;
+    height: 28px;
+    color: #FFFFFF;
+}
+.social{
+    width: 92px;
+    height: 24px;
+}
+.copywright{
+    text-align: center;
+    
+}
     
 
 
