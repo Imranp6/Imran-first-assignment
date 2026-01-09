@@ -162,7 +162,7 @@ color: #627382;
     gap: 40;
     padding: 24px ;
     text-align: justify;
-    box: shadow 20px; #627382;
+    
    
 }
 .skill-box .skill-card img{
@@ -172,6 +172,51 @@ color: #627382;
     border-radius: 5px;
 
 }
+#Brain{
+    width: 1600px;
+    height: 840px;
+    padding: 120px;
+    display: flex;
+    gap: 60;
+    justify-content: center;
+    margin: 0 auto;
+}
+.brain-img{
+    width: 600px;
+    height: 600px;
+}
+.brain-text{
+    vertical-align: middle;
+}
+.brain-text .brain-top{
+    font-size: 16px;
+    line-height: 20px;
+    color: #469165;
+    text-align:center;
+}
+.brain-text h2{
+    font-size: 48px;
+    color: #001931;
+    text-align: center;
+}
+.brain-text p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    text-align: center;
+
+}
+.brain-list{
+ list-style: none;
+ list-style-image: url(../assets/CheckCircle.png);
+ align-items: center;
+  font-size: 20px;
+  line-height: 16px;
+  color: #001931;
+  text-wrap-mode: inherit;  
+}
+    
+
 
 
 
