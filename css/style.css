@@ -207,9 +207,9 @@ color: #627382;
 
 }
 .brain-list{
- list-style: none;
- list-style-image: url(../assets/CheckCircle.png);
- align-items: center;
+  list-style: none;
+  list-style-image: url(../assets/CheckCircle.png);
+  align-items: center;
   font-size: 20px;
   line-height: 16px;
   color: #001931;
